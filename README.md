@@ -1,10 +1,7 @@
 ---
 title: Animer des ateliers collaboratifs
-description: >-
-  Approches avec lesquelles nous pratiquons l'animation d'ateliers
-  collaboratifs.
-image_url: >-
-  http://cpcoop.fr/wp-content/uploads/2015/01/Sallefacilitationworldcafe-300x121.jpg
+description: Approches avec lesquelles nous pratiquons l'animation d'ateliers collaboratifs.
+image_url: http://cpcoop.fr/wp-content/uploads/2015/01/Sallefacilitationworldcafe-300x121.jpg
 published: true
 ---
 # Animer des ateliers collaboratifs - présentation du dépôt de fiches
