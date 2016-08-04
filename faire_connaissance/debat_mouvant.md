@@ -1,11 +1,7 @@
 ---
 title: Débat mouvant
-description: >-
-  Un icebreaker intéressant pour rendre visible le positionnement des
-  participants sur une thématique
-image_url: >-
-  https://github.com/cpcoop/animer_ateliers/blob/master/faire_connaissance/debat_mouvant.jpg?raw=true
-published: true
+description: Un icebreaker intéressant pour rendre visible le positionnement des participants sur une thématique
+image_url: https://github.com/cpcoop/animer_ateliers/blob/master/faire_connaissance/debat_mouvant.jpg?raw=true
 ---
 
 # Débat mouvant
